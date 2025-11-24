@@ -6,6 +6,7 @@ import Navbar from './components/Navbar.jsx'
 import Project from './components/Project.jsx'
 import Skill from './components/Skill.jsx'
 import Contact from './components/Contact.jsx'
+import Certificate from './components/Certificate.jsx'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <About />
       <Skill />
       <Project />
+      <Certificate />
       <Contact />
     </>
   )

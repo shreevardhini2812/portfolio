@@ -1,7 +1,7 @@
 import React from 'react'
 const Navbar = () => {
   return (
-    <div className="w-full h-20 flex flex-row justify-between items-center bg-black p-10 text-white">
+    <div className="w-full h-20 flex flex-row justify-between items-center bg-blue-900 p-10 text-white">
         <div className='text-2xl font-bold'>Shree Vardhini V</div>
         <div className='flex flex-row gap-8 text-l font-semibold cursor-pointer'>
            

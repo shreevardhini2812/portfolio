@@ -10,8 +10,8 @@ import { TbHtml } from "react-icons/tb";
 
 const Skill = () => {
   return (
-    <div id="skill" className='border h-150 bg-black'>
-        <div className='text-4xl font-bold text-white p-10 pl-140'>My Skills</div>
+    <div id="skill" className='h-150 bg-blue-900'>
+        <div className='text-3xl font-bold text-white p-10 pl-140'>My Skills</div>
         <div className='grid grid-cols-4 gap-10 p-10 justify-between items-center text-white pl-50'>
             <div>
                 <div><FaReact size={100} /></div>
