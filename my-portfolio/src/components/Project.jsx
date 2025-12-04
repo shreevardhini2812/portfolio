@@ -21,9 +21,9 @@ const Project = () => {
               <button className=' rounded-full p-1 bg-blue-900 font-semibold text-white'>MongoDB</button>
             </div>
             <div className='flex flex-row pt-5 gap-2 text-center'>
-              <a href='https://github.com/shreevardhini2812/Project_Library/tree/main/frontend'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Frontend Code</div></a>
-              <a href='https://github.com/shreevardhini2812/Project_Library/tree/main/backend'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Backend Code</div></a>
-              <a href='https://libraryproje.netlify.app/login'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Live Demo</div></a>
+              <a href='https://github.com/shreevardhini2812/Project_Library/tree/main/frontend' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Frontend Code</div></a>
+              <a href='https://github.com/shreevardhini2812/Project_Library/tree/main/backend' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Backend Code</div></a>
+              <a href='https://libraryproje.netlify.app/login' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Live Demo</div></a>
             </div>
           </div>
           </div>
@@ -43,9 +43,9 @@ const Project = () => {
 
             </div>
             <div className='flex flex-row pt-5 gap-2 text-center'>
-              <a href='https://github.com/shreevardhini2812/studentplannerapp/tree/main/frontend'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Frontend Code</div></a>
-              <a href='https://github.com/shreevardhini2812/studentplannerapp/tree/main/backend'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Backend Code</div></a>
-              <a href='https://creative-sopapillas-211fa3.netlify.app/login'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Live Demo</div></a>
+              <a href='https://github.com/shreevardhini2812/studentplannerapp/tree/main/frontend' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Frontend Code</div></a>
+              <a href='https://github.com/shreevardhini2812/studentplannerapp/tree/main/backend' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Backend Code</div></a>
+              <a href='https://creative-sopapillas-211fa3.netlify.app/login' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Live Demo</div></a>
             </div>
           </div>
           </div>
@@ -64,9 +64,9 @@ const Project = () => {
               <button className=' rounded-full p-1 bg-blue-900 font-semibold text-white'>MongoDB</button>
             </div>
             <div className='flex flex-row pt-4 gap-2 text-center'>
-              <a href='https://github.com/shreevardhini2812/traveltracker/tree/main/frontend'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Frontend Code</div></a>
-              <a href='https://github.com/shreevardhini2812/traveltracker/tree/main/backend'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Backend Code</div></a>
-              <a href='https://traapp.netlify.app/'><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Live Demo</div></a>
+              <a href='https://github.com/shreevardhini2812/traveltracker/tree/main/frontend' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Frontend Code</div></a>
+              <a href='https://github.com/shreevardhini2812/traveltracker/tree/main/backend' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Backend Code</div></a>
+              <a href='https://traapp.netlify.app/' target="_blank"><div className='p-2 rounded bg-gray-400 text-black font-semibold cursor-pointer hover:bg-blue-900 hover:text-white hover:font-bold'>Live Demo</div></a>
             </div>
           </div>
         </div>
